@@ -2,7 +2,7 @@
 
 ## Overview
 
-For the following analysis, my team was tasked with using several supervised machine learning techniques to determine if they were useful in predicting loan risk. Using the credit card credit dataset from Lending Club, a peer-to-peer lending services company, we oversampled the data using the Random Over Sampler and SMOTE algorithms, and under sampled the data using the Cluster Centroids algorithm. Then, we used a combination approach of over- and under sampling using the SMOTEENN algorithm. Finally, we compared two new machine learning models that reduce bias, the balanced random forest classifier, and the easy ensemble classifier.  
+For the following analysis, my team was tasked with using several supervised machine learning techniques to determine if they were useful in predicting loan risk. Using the credit card dataset from Lending Club, a peer-to-peer lending services company, we oversampled the data using the Random Over Sampler and SMOTE algorithms, and under sampled the data using the Cluster Centroids algorithm. Then, we used a combination approach of over- and under sampling using the SMOTEENN algorithm. Finally, we compared two new machine learning models that reduce bias, the balanced random forest classifier, and the easy ensemble classifier.  
 
 ### Resources
 Applications: Python, Jupyter Notebook, Scikit-learn, and imbalanced-learn <br/>
