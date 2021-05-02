@@ -33,7 +33,7 @@ Applications: Python, Jupyter Notebook, Scikit-learn, and imbalanced-learn <br/>
 - Recall/Sensitivity: .60
 - F1: .74
 
-![Balancedrandomforest](https://github.com/Brooks2210/Credit_Risk_Analysis/blob/main/Resources/ Balancedrandomforest.png)
+![Balancedrandomforest](https://github.com/Brooks2210/Credit_Risk_Analysis/blob/main/Resources/Balancedrandomforest.png)
 - Balance Accuracy Score: 0.7888
 - Precision: .99
 - Recall/Sensitivity: .87
